@@ -5,7 +5,7 @@ import ReactDOM from "react-dom/client";
 // include your styles into the webpack bundle
 import "../styles/index.css";
 
-//import your own components
+//import your own components..
 import Contador from "./component/Contador.jsx";
 
 let counter = 0;
